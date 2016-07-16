@@ -1,0 +1,22 @@
+.click_div {
+	position: absolute;
+	cursor: pointer;
+	border: 3px solid rgb(255, 20, 147);
+	z-index: 100;
+}
+
+.img_title {
+	position: absolute;
+	height: 25px;
+	width: 414px;
+	left: 0;
+	top: 0;
+}
+
+.img_main {
+	position: absolute;
+	height: 714px;
+	width: 414px;
+	left: 0;
+	top: 25px;
+}

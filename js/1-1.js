@@ -1,38 +1,41 @@
 $(document).ready(function() {
 	$('#div_1').click(function() {
-		alert(1);
+		window.location.href = './1-12-1.html';
 	});
 	$('#div_2').click(function() {
-		window.location.href = './1-2-1.html';
+		window.location.href = './1-13-1.html';
 	});
 	$('#div_3').click(function() {
-		alert(3);
+		window.location.href = './1-7-1.html';
 	});
 	$('#div_4').click(function() {
-		alert(4);
+		window.location.href = './1-8-1.html';
 	});
 	$('#div_5').click(function() {
-		alert(5);
+		window.location.href = './1-2-1.html';
 	});
 	$('#div_6').click(function() {
-		alert(6);
+		window.location.href = './1-3.html';
 	});
 	$('#div_7').click(function() {
-		alert(7);
+		window.location.href = './1-4.html';
 	});
 	$('#div_8').click(function() {
-		alert(8);
+		window.location.href = './1-5.html';
 	});
 	$('#div_9').click(function() {
-		alert(9);
+		window.location.href = './1-6.html';
 	});
 	$('#div_10').click(function() {
-		alert(10);
+		window.location.href = './1-10.html';
 	});
 	$('#div_11').click(function() {
-		alert(11);
+		window.location.href = './1-1.html';
 	});
 	$('#div_12').click(function() {
-		alert(12);
+		window.location.href = './1-13-1.html';
+	});
+	$('#div_13').click(function() {
+		window.location.href = './1-11-1.html';
 	});
 });

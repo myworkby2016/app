@@ -15,10 +15,10 @@ $(document).ready(function() {
 		window.location.href = './1-1.html';
 	});
 	$('#div_6').click(function() {
-		window.location.href = './1-11-1.html';
+		window.location.href = './1-13-1.html';
 	});
 	$('#div_7').click(function() {
-		window.location.href = './1-13-1.html';
+		window.location.href = './1-11-1.html';
 	});
 	$('#div_8').click(function() {
 		alert(8);

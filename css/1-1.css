@@ -1,64 +1,64 @@
 #div_1 {
-	width: 107px;
-	height: 49px;
-	top: 669px;
-	left: 0px;
+	width: 294px;
+	height: 32px;
+	top: 25px;
+	left: 21px;
 }
 
 #div_2 {
-	top: 354px;
-	left: 24px;
-	height: 67px;
-	width: 164px;
+	width: 44px;
+	height: 33px;
+	top: 25px;
+	left: 361px;
 }
 
 #div_3 {
-	top: 354px;
-	left: 218px;
-	height: 67px;
-	width: 164px;
-}
-
-#div_4 {
-	top: 453px;
-	left: 24px;
-	height: 67px;
-	width: 164px;
-}
-
-#div_5 {
-	top: 452px;
-	left: 218px;
-	height: 67px;
-	width: 164px;
-}
-
-#div_6 {
-	top: 545px;
-	left: 24px;
-	height: 67px;
-	width: 164px;
-}
-
-#div_7 {
 	width: 395px;
 	height: 163px;
 	top: 65px;
 	left: 8px;
 }
 
-#div_8 {
+#div_4 {
 	width: 395px;
 	height: 83px;
 	top: 237px;
 	left: 8px;
 }
 
+#div_5 {
+	top: 354px;
+	left: 24px;
+	height: 67px;
+	width: 164px;
+}
+
+#div_6 {
+	top: 354px;
+	left: 218px;
+	height: 67px;
+	width: 164px;
+}
+
+#div_7 {
+	top: 453px;
+	left: 24px;
+	height: 67px;
+	width: 164px;
+}
+
+#div_8 {
+	top: 452px;
+	left: 218px;
+	height: 67px;
+	width: 164px;
+}
+
 #div_9 {
-	width: 107px;
-	height: 49px;
-	top: 669px;
-	left: 165px;
+	top: 545px;
+	left: 24px;
+	height: 67px;
+	width: 164px;
 }
 
 #div_10 {
@@ -69,22 +69,22 @@
 }
 
 #div_11 {
+	width: 107px;
+	height: 49px;
+	top: 669px;
+	left: 0px;
+}
+
+#div_12 {
+	width: 107px;
+	height: 49px;
+	top: 669px;
+	left: 165px;
+}
+
+#div_13 {
 	width: 105px;
 	height: 49px;
 	top: 669px;
 	left: 299px;
-}
-
-#div_12 {
-	width: 294px;
-	height: 32px;
-	top: 25px;
-	left: 21px;
-}
-
-#div_13 {
-	width: 44px;
-	height: 33px;
-	top: 25px;
-	left: 361px;
 }

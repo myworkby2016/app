@@ -188,7 +188,7 @@
 		  });
 			
 		  $page.bind("dragstart", function(e, data) {
-			m1 = (e.pageX - $page.offset().left)*zoomLev; //pos actual del ratón
+			m1 = (e.pageX - $page.offset().left)*zoomLev; //pos actual del ratï¿½n
 			m2 = (e.pageY - $page.offset().top)*zoomLev;
 			doPinch=true;
 			target = e.target;
@@ -263,7 +263,7 @@
 		  });
 			
 		  $page.bind("dragstart", function(e, data) {
-			m1 = (e.pageX - $page.offset().left)*zoomLev; //pos actual del ratón
+			m1 = (e.pageX - $page.offset().left)*zoomLev; //pos actual del ratï¿½n
 			m2 = (e.pageY - $page.offset().top)*zoomLev;
 			doRotate=true;
 			target = e.target;
@@ -336,13 +336,13 @@
 		  $mobile.css('transform-origin', '50% 0');
 		  $mobile.css('transform', "scale(" + zoomLev + ")");
 		  
-		  if($.browser.msie && $.browser.version<9) {
-			  var $container = jQuery('#jim-container'),
-			  oldZoom = 1/jimMobile.getZoom();
-			  $mobile.css('zoom', zoomLev);
-			  $container.css('top', parseInt(((parseInt($container.css("top"))/oldZoom) *zoomLev)));
-			  $container.css('left', parseInt(((parseInt($container.css("left"))/oldZoom) *zoomLev)));
-		  }
+//		  if($.browser.msie && $.browser.version<9) {
+//			  var $container = jQuery('#jim-container'),
+//			  oldZoom = 1/jimMobile.getZoom();
+//			  $mobile.css('zoom', zoomLev);
+//			  $container.css('top', parseInt(((parseInt($container.css("top"))/oldZoom) *zoomLev)));
+//			  $container.css('left', parseInt(((parseInt($container.css("left"))/oldZoom) *zoomLev)));
+//		  }
 		  
 		  //TODO
 		  //Change the cursor images if touch to give the "zoom" to mouse pointer. 

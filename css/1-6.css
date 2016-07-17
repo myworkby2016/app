@@ -1,8 +1,14 @@
+#div_A {
+    width: 57px;
+    height: 46px;
+    top: 25px;
+    left: 7px;
+}
 #div_1 {
-	width: 326px;
-	height: 46px;
-	top: 25px;
-	left: 7px;
+    width: 302px;
+    height: 46px;
+    top: 25px;
+    left: 75px;
 }
 
 #div_2 {

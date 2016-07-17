@@ -3,24 +3,24 @@ $(document).ready(function() {
 		window.location.href = './1-2-1.html';
 	});
 	$('#div_2').click(function() {
-		window.location.href = './1-2-3-s.html';
-	});
-	$('#div_3').click(function() {
-		alert(3);
-	});
-	$('#div_4').click(function() {
 		window.location.href = './1-2-4.html';
 	});
+	$('#div_3').click(function() {
+		window.location.href = './1-2-3-s.html';
+	});
+	$('#div_4').click(function() {
+	});
 	$('#div_5').click(function() {
-		window.location.href = './1-1.html';
+		window.location.href = './1-2-4.html';
 	});
 	$('#div_6').click(function() {
-		window.location.href = './1-13-1.html';
+		window.location.href = './1-1.html';
 	});
 	$('#div_7').click(function() {
-		window.location.href = './1-11-1.html';
+		window.location.href = './1-13-1.html';
 	});
 	$('#div_8').click(function() {
+		window.location.href = './1-11-1.html';
 	});
 	$('#div_9').click(function() {
 	});

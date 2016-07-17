@@ -3,7 +3,7 @@ $(document).ready(function() {
 		window.location.href = './1-5.html';
 	});
 	$('#div_2').click(function() {
-		window.location.href = './1-2-4.html';
+		window.location.href = './1-5-1-2-4.html';
 	});
 	$('#div_3').click(function() {
 		window.location.href = './1-1.html';

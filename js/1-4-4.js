@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$('#div_1').click(function() {
-		window.location.href = './1-4-4.html';
+		window.location.href = './1-4.html';
 	});
 	$('#div_2').click(function() {
 		window.location.href = './1-13-1.html';

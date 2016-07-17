@@ -6,7 +6,7 @@ $(document).ready(function() {
 		window.location.href = './1-4-2.html';
 	});
 	$('#div_3').click(function() {
-		window.location.href = './1-2-2.html';
+		window.location.href = './1-4-1-2-2.html';
 	});
 	$('#div_4').click(function() {
 		window.location.href = './1-4-4.html';

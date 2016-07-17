@@ -1,21 +1,21 @@
 $(document).ready(function() {
     $('#div_1').click(function() {
-        alert(1);
+		window.location.href = './1-1.html';
     });
     $('#div_2').click(function() {
-        alert(2);
+		window.location.href = './1-2-5.html';
     });
     $('#div_3').click(function() {
-        alert(3);
+		window.location.href = './1-2-2.html';
     });
     $('#div_4').click(function() {
-        alert(4);
+		window.location.href = './1-2-3.html';
     });
     $('#div_5').click(function() {
-        alert(5);
+		window.location.href = './1-2-3.html';
     });
     $('#div_6').click(function() {
-        alert(6);
+		window.location.href = './1-2-3.html';
     });
     $('#div_7').click(function() {
         alert(7);

@@ -4,14 +4,14 @@ $(document).ready(function() {
 		window.location.href = './1-6-2.html';
     });
     $('#div_2').click(function() {
-      alert("where to go ? TODO")
+		window.location.href = './1-6-2-s6.html';
     });
 
     $('#div_5').click(function() {
      window.location.href = './1-6-2-s5.html';
     });
     $('#div_6').click(function() {
-      alert("where to go ? TODO")
+      alert("联系商家功能。点击后，弹出苹果电话框，可以拨出电话。用于跟商户交流。")
     });
 
 

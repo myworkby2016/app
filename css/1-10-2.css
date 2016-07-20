@@ -10,20 +10,27 @@
     height: 38px;
     top: 199px;
     left: 49px;
+
 }
 
 #div_4 {
-    width: 166px;
+    width: 170px;
     height: 62px;
     top: 578px;
     left: 30px;
+    border-color: white;
+    background-color: white;
+    pointer-events:none
 }
 
 #div_5 {
-    width: 165px;
+    width: 170px;
     height: 60px;
     top: 578px;
     left: 217px;
+    border-color: white;
+    background-color: white;
+    pointer-events:none
 }
 
 #div_6 {

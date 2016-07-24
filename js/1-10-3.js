@@ -3,7 +3,7 @@ $(document).ready(function() {
 		window.location.href = './1-10-2.html';
     });
     $('#div_2').click(function() {
-		alert("文字错误")
+    	window.location.href = './1-10-8.html';
     });
 
     $('#div_3').click(function() {

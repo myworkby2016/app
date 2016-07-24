@@ -2,6 +2,9 @@ $(document).ready(function() {
     $('#div_1').click(function() {
 		window.location.href = './1-10-4.html';
     });
+    $('#div_2').click(function() {
+		window.location.href = './1-10-9.html';
+    });
 
     $('#div_3').click(function() {
 		window.location.href = './1-1.html';

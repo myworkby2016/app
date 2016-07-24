@@ -27,7 +27,7 @@ $(document).ready(function() {
        window.location.href = './1-6-2.html';
     });
     $('#div_9').click(function() {
-       window.location.href = './1-6-2-s1.html';
+       window.location.href = './1-6-2-s5-2.html';
     });
     $('#div_10').click(function() {
        window.location.href = './1-1.html';

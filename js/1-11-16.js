@@ -3,10 +3,6 @@ $(document).ready(function() {
 		window.location.href = './1-11-2.html';
     });
 
-    $('#div_2').click(function() {
-		window.location.href = './1-11-11.html';
-    });
-
     $('#div_3').click(function() {
 		window.location.href = './1-1.html';
     });
@@ -16,11 +12,6 @@ $(document).ready(function() {
     $('#div_5').click(function() {
         window.location.href = './1-11-1.html';
     });
-    $('#div_6').click(function() {
-        window.location.href = './1-11-12.html';
-    });
-    $('#div_7').click(function() {
-        window.location.href = './1-11-13.html';
-    });
+
 
 });

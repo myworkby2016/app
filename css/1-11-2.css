@@ -13,7 +13,7 @@
 }
 
 #div_3 {
-    width: 95px;
+    width: 75px;
     height: 25px;
     top: 374px;
     left: 44px;
@@ -58,5 +58,42 @@
 
 
 #div_10 {
+    width: 75px;
+    height: 21px;
+    top: 204px;
+    left: 47px;
+}
+#div_11 {
+    width: 75px;
+    height: 21px;
+    top: 257px;
+    left: 47px;
+}
+#div_12 {
+    width: 75px;
+    height: 21px;
+    top: 302px;
+    left: 47px;
+}
+#div_13 {
+    width: 75px;
+    height: 21px;
+    top: 339px;
+    left: 47px;
+
+
+}
+#div_14 {
+	width: 75px;
+    height: 21px;
+    top: 178px;
+    left: 47px;
+
+}
+#div_15 {
+	    width: 75px;
+    height: 21px;
+    top: 178px;
+    left: 47px;
 
 }

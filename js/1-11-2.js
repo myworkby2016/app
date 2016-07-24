@@ -24,5 +24,18 @@ $(document).ready(function() {
      $('#div_9').click(function() {
         window.location.href = './1-11-9.html';
     });
+     $('#div_10').click(function() {
+         window.location.href = './1-11-14.html';
+     });
+     $('#div_11').click(function() {
+         window.location.href = './1-11-16.html';
+     });
+     $('#div_12').click(function() {
+         window.location.href = './1-11-17.html';
+     });
+     $('#div_13').click(function() {
+         window.location.href = './1-11-18.html';
+     });
+
 
 });
